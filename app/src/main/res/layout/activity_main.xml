@@ -1,0 +1,37 @@
+
+       <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_blue_light">
+
+        <TextView
+            android:text="Tom"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textSize="24sp"
+            android:background="#004D40"
+            android:textColor="#B2DFDB"/>
+
+        <TextView
+            android:text="Andrew"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textSize="24sp"
+            android:background="#00796B"
+            android:textColor="#B2DFDB"/>
+        <TextView
+            android:text="Lera"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textSize="24sp"
+            android:background="#009688"
+            android:textColor="#B2DFDB"/>
+    </LinearLayout>
+
+
+
